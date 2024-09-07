@@ -1,0 +1,3 @@
+[submodule "resources/lib/asgiref"]
+	path = resources/lib/asgiref
+	url = https://github.com/django/asgiref.git
